@@ -1,0 +1,13 @@
+
+f
+java:S1192"IDefine a constant instead of duplicating this literal "user.dir" 3 times.(Ùù²†8»­ëªé1
+~
+java:S1488;"\Immediately return this expression instead of assigning it to the temporary variable "data".(•çÓÆùÿÿÿÿ8¼­ëªé1
+t
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÔèË©úÿÿÿÿ8¬›ëªé1
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ùù²†8Õ­ëªé1
+i
+java:S1871."LThis branch's code block is the same as the block for the branch on line 31.(á¢–¬8Þ­ëªé1
+W	java:S125!"<This block of commented-out lines of code should be removed.(¨˜ì8ß­ëªé1
+X	java:S125&"<This block of commented-out lines of code should be removed.(óØ‡ª8æ­ëªé1
